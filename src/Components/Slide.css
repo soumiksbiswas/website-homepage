@@ -1,0 +1,38 @@
+.cont1{
+    float: left;
+    width: 60%;
+    height: 100vh;
+}
+
+.cont2{
+    float: left;
+    width: 40%;
+    height: 100vh;
+    background-color: rgb(234, 238, 133);
+    color: rgb(17, 66, 9);
+}
+
+.head{
+    color: blue;
+}
+
+.imgslide{
+    height: inherit;
+}
+
+.box{
+    display: flex;
+}
+
+.para{
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: baseline;
+    font-size: large;
+    text-align: justify;
+    color: black;
+}
+
+.logo{
+    width: inherit;
+}

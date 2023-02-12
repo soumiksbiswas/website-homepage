@@ -1,3 +1,7 @@
+body{
+  background-color: rgb(52, 54, 52);
+}
+
 .App {
   text-align: center;
 }
@@ -35,4 +39,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.cont{
+  align-items: first baseline;
+  height: 50vh;
+  width: 100vw;
 }
